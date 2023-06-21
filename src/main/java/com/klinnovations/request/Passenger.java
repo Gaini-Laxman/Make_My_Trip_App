@@ -1,6 +1,8 @@
 package com.klinnovations.request;
 
+
 import lombok.Data;
+
 
 @Data
 public class Passenger {
@@ -14,5 +16,8 @@ public class Passenger {
 	private String doj;
 	
 	private String trainNumber;
+	
+	private String trainName;
+
 
 }

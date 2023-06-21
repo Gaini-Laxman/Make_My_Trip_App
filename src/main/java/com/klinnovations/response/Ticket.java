@@ -11,7 +11,7 @@ public class Ticket {
 	private String status;
 	
 	private Double ticketCost;
-
+	
 	private String name;
 
 	private String from;
@@ -21,4 +21,6 @@ public class Ticket {
 	private String doj;
 
 	private String trainNumber;
+	
+	private String trainName;
 }
